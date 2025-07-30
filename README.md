@@ -124,7 +124,7 @@ superstore-business-analysis/
 - **Dataset**: [Superstore Data](./Sample%20-%20Superstore.csv)
 - **Portfolio**: [Other Projects](#)
 
-## 🎯 Key Takeaways
+## Key Takeaways
 
 This project demonstrates:
 - **End-to-end data science capabilities** from cleaning to strategy
